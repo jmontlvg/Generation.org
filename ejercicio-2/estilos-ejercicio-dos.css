@@ -1,0 +1,15 @@
+#Título{
+    background-color: black;
+    color: white;
+}
+
+.Subtítulos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+}
+
+img{
+    border-color: red;
+    border-style: dashed;
+    border-width: 1cm;
+}

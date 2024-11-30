@@ -1,0 +1,36 @@
+:root{
+    background-color: #0A3981;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+}
+
+div#AppUno{
+    background-color: #88C273;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div#AppDos{
+    background-color: #AF1740;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+div#AppTres{
+    background-color: #4CC9FE;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div#AppCuatro{
+    background-color: #EB8317;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div#AppCinco{
+    background-color: #257180;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}

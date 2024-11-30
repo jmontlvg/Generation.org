@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-weight: 200;
+    background-color: blue;
+    color: beige;
+}

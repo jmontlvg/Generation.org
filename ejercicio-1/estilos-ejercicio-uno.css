@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+}
+
+h1#Título1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+}
+
+h1#Título2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-style: italic;
+}

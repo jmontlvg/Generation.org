@@ -1,0 +1,14 @@
+:root{
+    background-color: #FFEB55;
+    font-family: "Parkinsans", serif;
+}
+
+.album{
+font-style: italic;
+font-weight: 1000;
+}
+
+h1{
+    background-color: #D91656;
+    color: white;
+}
