@@ -1,0 +1,20 @@
+:root{
+    --bg-color:#453C67;/*Se asignan variables a los colores*/
+    --primary-color:#6D67E4;
+    --secondary-color:#46C2CB;
+    --hg-color:#F2F7A1;
+    background-color: var(--bg-color);
+    color: var(--hg-color);
+}
+
+@media (max-width: 750px){ /*Esta propiedad ayuda a que sea responsivo*/
+    h1{
+        color: var(--primary-color);
+        text-align: center;
+    }
+}
+
+#Titulo{
+    color: var(--primary-color);
+    
+}
